@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello.h
+
+/home/lsw/视觉slam培训/第1讲/SLAM第一讲作业资料/L1/src/hello.cpp
+hello.h
+/home/lsw/视觉slam培训/第1讲/SLAM第一讲作业资料/L1/src/hello.h
+iostream
+-
+

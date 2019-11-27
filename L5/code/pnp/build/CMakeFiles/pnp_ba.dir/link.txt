@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/pnp_ba.dir/GN-BA.cpp.o  -o pnp_ba -rdynamic /home/lsw/slambook/3rdparty/Sophus/bulid/libSophus.so -Wl,-rpath,/home/lsw/slambook/3rdparty/Sophus/bulid 

@@ -1,0 +1,3 @@
+/home/lsw/视觉slam培训/第2讲/L2/useGeometry/build/CMakeFiles/edit_cache.dir
+/home/lsw/视觉slam培训/第2讲/L2/useGeometry/build/CMakeFiles/rebuild_cache.dir
+/home/lsw/视觉slam培训/第2讲/L2/useGeometry/build/CMakeFiles/eigenGeometry.dir

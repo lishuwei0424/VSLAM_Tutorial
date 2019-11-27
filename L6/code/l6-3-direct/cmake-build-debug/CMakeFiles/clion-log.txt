@@ -1,0 +1,30 @@
+/home/lsw/clion-2018.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lsw/视觉slam培训/第6讲/SLAM第六讲作业资料/L6/code/l6-3-direct
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Boost version: 1.58.0
+-- 1 OpenCV DIRS: 
+ LIBS: opencv_viz;opencv_videostab;opencv_videoio;opencv_video;opencv_superres;opencv_stitching;opencv_shape;opencv_photo;opencv_objdetect;opencv_ml;opencv_imgproc;opencv_imgcodecs;opencv_highgui;opencv_flann;opencv_features2d;opencv_core;opencv_calib3d
+
+2 Boost DIRS: /usr/include 
+ LIBS: 
+
+3 Pangolin DIRS: /usr/local/lib/cmake/Pangolin/../../../include;/usr/include;/usr/include;/usr/include/eigen3 
+ LIBS: pangolin
+
+4 Sophus DIRS: /home/lsw/slambook/3rdparty/Sophus;/usr/include/eigen3 
+ LIBS: /home/lsw/slambook/3rdparty/Sophus/bulid/libSophus.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lsw/视觉slam培训/第6讲/SLAM第六讲作业资料/L6/code/l6-3-direct/cmake-build-debug

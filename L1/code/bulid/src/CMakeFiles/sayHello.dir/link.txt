@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sayHello.dir/useHello.o  -o ../bin/sayHello -rdynamic ../lib/libsayHello.so -Wl,-rpath,/home/lsw/视觉slam培训/第1讲/SLAM第一讲作业资料/L1/bulid/lib 

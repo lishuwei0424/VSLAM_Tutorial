@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/disparity.dir/main.cpp.o  -o disparity 
